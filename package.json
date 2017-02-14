@@ -1,0 +1,28 @@
+{
+  "name": "streambattery",
+  "version": "0.1.0",
+  "description": "Creates an array of writeable streams, then calls a callback when they're all done with a keyed object of the streams' results.",
+  "main": "streambattery.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tprobinson/node-streambattery.git"
+  },
+  "keywords": [
+    "node",
+    "streams",
+    "demux",
+    "demultiplex",
+    "callback",
+    "bucket",
+    "stream"
+  ],
+  "author": {"name": "Trevor Robinson", "url": "https://keybase.io/tpr"},
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tprobinson/node-streambattery/issues"
+  },
+  "homepage": "https://github.com/tprobinson/node-streambattery#readme"
+}
